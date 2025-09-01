@@ -1,0 +1,5 @@
+<!-- Placeholder para imagem do Raichu -->
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="150" cy="150" r="100" fill="#fcc719" stroke="#f39c12" stroke-width="3"/>
+  <text x="150" y="160" text-anchor="middle" font-family="Arial" font-size="20" fill="white">Raichu</text>
+</svg>
